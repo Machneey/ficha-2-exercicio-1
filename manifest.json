@@ -1,0 +1,20 @@
+{
+    "name": "Euromilhões",
+    "short_name": "Euromilhões",
+    "display": "standalone",
+    "start_url": "folder/index.html",
+    "theme_color": "#2ae88f",
+    "background_color": "#ffffff",
+    "icons": [
+        {
+            "src": "folder/trevo.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "folder/trevo (1).png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
